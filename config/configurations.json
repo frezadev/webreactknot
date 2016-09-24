@@ -1,0 +1,40 @@
+[
+	{
+		"_id": "db_acl",
+		"data": {
+			"db": "webreactknot",
+			"driver": "mongo",
+			"host": "127.0.0.1:27017",
+			"pass": "",
+			"setting": {
+				"timeout": 3000
+			},
+			"user": ""
+		}
+	},
+	{
+		"_id": "db_webreactknot",
+		"data": {
+			"db": "webreactknot",
+			"driver": "mongo",
+			"host": "127.0.0.1:27017",
+			"pass": "",
+			"setting": {
+				"timeout": 3000
+			},
+			"user": ""
+		}
+	},
+	{
+		"_id": "port",
+		"data": 8030
+	},
+	{
+		"_id": "default_username",
+		"data": "eaciit"
+	},
+	{
+		"_id": "default_password",
+		"data": "Password.1"
+	}
+]
